@@ -11,13 +11,12 @@ $query_builder = TRUE;
 // 'dbdriver' => 'sqlsrv',
 
 
-
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'tcp:dragons.database.windows.net,1433',
-	'username' => 'kris',
-	'password' => 'Password1!',
-	'database' => 'dragons',
+	'hostname' => 'tcp:jasamerin-sv.database.windows.net,1433',
+	'username' => 'shairol',
+	'password' => 'Jasamerin1',
+	'database' => 'jasamerin-db',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
